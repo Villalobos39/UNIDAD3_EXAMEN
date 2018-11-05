@@ -1,0 +1,7 @@
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\bin\Debug\LasVacasBob.exe.config
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\bin\Debug\LasVacasBob.exe
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\bin\Debug\LasVacasBob.pdb
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\obj\Debug\LasVacasBob.csprojAssemblyReference.cache
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\obj\Debug\LasVacasBob.csproj.CoreCompileInputs.cache
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\obj\Debug\LasVacasBob.exe
+H:\VIERNES\E.E.VILLALONOSPEREZ\LasVacasBob\obj\Debug\LasVacasBob.pdb

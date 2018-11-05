@@ -1,0 +1,14 @@
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\bin\Debug\ToDoList.exe.config
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\bin\Debug\ToDoList.exe
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\bin\Debug\ToDoList.pdb
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.exe
+H:\VIERNES\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.pdb
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\bin\Debug\ToDoList.exe.config
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\bin\Debug\ToDoList.exe
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\bin\Debug\ToDoList.pdb
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.exe
+H:\VIERNES\ESTRUCTURA_U3\E.C.3.VILLALOBOS.PEREZ\ToDoList\obj\Debug\ToDoList.pdb
